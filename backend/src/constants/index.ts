@@ -18,3 +18,8 @@ export {
   type InitExampleLimitsType,
   type InitExamplePriority,
 } from './initExample';
+
+/**
+ * Meal constants
+ */
+export * from './meal';
